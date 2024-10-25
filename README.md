@@ -1,7 +1,8 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <title>Testing</title>
-    <meta name="author" content="Arnold">
+    <meta charset="UTF-8">
 </head>
     
 <body>
@@ -14,7 +15,7 @@
     <h1>New Awesome Product</h1>
     <a href=
     'https://www.sololearn.com'>Sololearn</a>
-    <img src="/C:\Users\DELL\Downloads\MEmu Download/np.png" height="150" width="200">
+    <img src="np.png" height="150" width="200" alt="">
     <p>This is a new product created by Arnold.</p>
     <p>Which do you prefer</p>
     <!--Menu section-->
@@ -23,17 +24,17 @@
     <h2 id="Local">Local Dish</h2>
     <ol>
       <li>Fufu</li>
-    <ul>
-        <li>Palm nut soup</li>
-        <li>Light soup</li>
-        <li>Ground nut soup</li>
-    </ul>
+          <ul>
+             <li>Palm nut soup</li>
+             <li>Light soup</li>
+             <li>Ground nut soup</li>
+          </ul>
       <li>Kenkey and Shito</li>
       <li>Banku</li>
-      <ul>
-        <li>Okra stew</li>
-        <li>Okra soup</li>
-      </ul>   
+          <ul>
+              <li>Okra stew</li>
+              <li>Okra soup</li>
+           </ul>   
     </ol>
     <h2 id="Exotic">Exotic Dish</h2>
     <ol>
